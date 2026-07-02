@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Device Care",
+  "description": "Professional storage, RAM, and battery analyzer and optimization tool for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
